@@ -1,0 +1,9 @@
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\bin\Debug\ConsoleApiAiBot.exe.config
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\bin\Debug\ConsoleApiAiBot.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\bin\Debug\ConsoleApiAiBot.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\bin\Debug\ApiAiSDK.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\obj\Debug\ConsoleApiAiBot.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\obj\Debug\ConsoleApiAiBot.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Bot Applications\ConsoleApiAiBot\ConsoleApiAiBot\obj\Debug\ConsoleApiAiBot.csprojResolveAssemblyReference.cache
